@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Hello, My Name is Chase Fortner!'
+theme = "hyde"
+[params]
+description = "I am a Software Engineer"
