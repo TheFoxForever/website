@@ -2,8 +2,6 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Chase Fortner'
 theme = "hyde"
+publishDir = "docs"
 [params]
 description = "An aspiring Data Scientist"
-extensions = [
-    "hardLineBreak"
-]
