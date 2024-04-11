@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chase Fortner</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on Chase Fortner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Apr 2024 22:56:47 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Update</title>
-      <link>http://localhost:1313/pages/update/</link>
+      <link>https://example.org/pages/update/</link>
       <pubDate>Sun, 07 Apr 2024 22:56:47 -0400</pubDate>
-      <guid>http://localhost:1313/pages/update/</guid>
+      <guid>https://example.org/pages/update/</guid>
       <description>More details to come as my profile is reviewed for release! Contact Information Contact Information Connect with me on LinkedIn or check out my projects on GitHub.</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/pages/about/</link>
+      <link>https://example.org/pages/about/</link>
       <pubDate>Sun, 07 Apr 2024 21:52:23 -0400</pubDate>
-      <guid>http://localhost:1313/pages/about/</guid>
+      <guid>https://example.org/pages/about/</guid>
       <description>Professional Profile I am currently a Cyber Warfare Technician in the United States Navy. I will have been serving for 8 years at the end of my contract and am looking to start an internship in February 2025 or a full-time position in June 2025. I have worked in both defensive and offensive cybersecurity positions, specializing in data analysis and software development.</description>
     </item>
     <item>
       <title>Resume</title>
-      <link>http://localhost:1313/pages/resume/</link>
+      <link>https://example.org/pages/resume/</link>
       <pubDate>Fri, 05 Apr 2024 20:29:30 -0400</pubDate>
-      <guid>http://localhost:1313/pages/resume/</guid>
+      <guid>https://example.org/pages/resume/</guid>
       <description>Professional Experience and Skills Professional Experience Cryptologic Technician (Networks) First Class (E6), United States Navy Duration: July 2017 - Present&#xA;Dedicated 200 hours in the development and testing of a vital host collection tool. Creation included data collection, transfer over network, cleaning, parsing, and presenting findings to stakeholders. Authored 10 Risk Mitigation Plans summarizing 4.22TB of data across 35,166 assets providing insight on 95,369 compliance and 112,293 vulnerability findings to stakeholders and network owners.</description>
     </item>
   </channel>
